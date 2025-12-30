@@ -1,4 +1,4 @@
-# 🖥️ Server — Sports Performance Tracker
+#  Server — Sports Performance Tracker
 
 This is the **backend API** for the **Sports Performance Tracker with AI Insights** application.
 
@@ -38,3 +38,4 @@ server/
 ├── index.js
 └── package.json
 ```
+
